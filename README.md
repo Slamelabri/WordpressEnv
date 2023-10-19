@@ -1,4 +1,3 @@
-# WordpressEnv
 Automatisation d'environnements de développement avec Vagrant, VirtualBox et Wordpress
 Objectif
 
